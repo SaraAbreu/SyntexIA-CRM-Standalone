@@ -1,0 +1,1 @@
+# SyntexIA CRM - Standalone

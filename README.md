@@ -246,8 +246,8 @@ Propietario - Todos los derechos reservados
 ## 👨‍💻 Autor
 
 **SyntexIA**
-- Web: https://syntexia.io
-- Email: info@syntexia.io
+- Web: https://syntexia-solutions.es
+- Email: syntexia.ai@gmail.com
 
 ## 🤝 Soporte
 

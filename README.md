@@ -241,7 +241,7 @@ python main.py  # Se recreará automáticamente
 
 ## 📄 Licencia
 
-Propietario - Todos los derechos reservados
+SyntexIA - Todos los derechos reservados
 
 ## 👨‍💻 Autor
 
